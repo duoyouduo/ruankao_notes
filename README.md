@@ -1,3 +1,6 @@
-# My Awesome Book
+# 软考-软件设计师学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+教材使用《软件设计师教程（第4版）》
+
+课程学习遵照网上下载到的，希赛软件设计师考试视频教程（讲师：王勇）
+
