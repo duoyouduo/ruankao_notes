@@ -8,4 +8,5 @@
   * [计算机结构](chapter1/ji-suan-ji-jie-gou.md)
   * [计算机体系结构分类-Flynn分类法](chapter1/ji-suan-ji-ti-xi-jie-gou-fen-7c7b-flynn-fen-lei-fa.md)
   * [CISC和IRSC](chapter1/cische-irsc.md)
+  * [流水线的基本概念](chapter1/liu-shui-xian-de-ji-ben-gai-nian.md)
 
