@@ -16,4 +16,5 @@
   * [时间局部性与空间局部性](chapter1/shi-jian-ju-bu-xing-yu-kong-jian-ju-bu-xing.md)
   * [随机存储器和只读存储器](chapter1/sui-ji-cun-chu-qi-he-zhi-du-cun-chu-qi.md)
   * [磁盘工作原理](chapter1/ci-pan-gong-zuo-yuan-li.md)
+  * [计算机总线](chapter1/ji-suan-ji-zong-xian.md)
 
