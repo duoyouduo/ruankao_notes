@@ -17,4 +17,5 @@
   * [随机存储器和只读存储器](chapter1/sui-ji-cun-chu-qi-he-zhi-du-cun-chu-qi.md)
   * [磁盘工作原理](chapter1/ci-pan-gong-zuo-yuan-li.md)
   * [计算机总线](chapter1/ji-suan-ji-zong-xian.md)
+  * [系统可靠性分析与设计](chapter1/xi-tong-ke-kao-xing-fen-xi-yu-she-ji.md)
 
