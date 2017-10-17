@@ -9,4 +9,5 @@
   * [计算机体系结构分类-Flynn分类法](chapter1/ji-suan-ji-ti-xi-jie-gou-fen-7c7b-flynn-fen-lei-fa.md)
   * [CISC和IRSC](chapter1/cische-irsc.md)
   * [流水线的基本概念](chapter1/liu-shui-xian-de-ji-ben-gai-nian.md)
+  * [流水线周期及流水线执行时间的计算](chapter1/liu-shui-xian-zhou-qi-ji-liu-shui-xian-zhi-xing-shi-jian-de-ji-suan.md)
 
