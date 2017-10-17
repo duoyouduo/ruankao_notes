@@ -10,4 +10,5 @@
   * [CISC和IRSC](chapter1/cische-irsc.md)
   * [流水线的基本概念](chapter1/liu-shui-xian-de-ji-ben-gai-nian.md)
   * [流水线周期及流水线执行时间的计算](chapter1/liu-shui-xian-zhou-qi-ji-liu-shui-xian-zhi-xing-shi-jian-de-ji-suan.md)
+  * [流水线吞吐率计算](chapter1/liu-shui-xian-tun-tu-lv-ji-suan.md)
 
