@@ -13,4 +13,5 @@
   * [流水线吞吐率计算](chapter1/liu-shui-xian-tun-tu-lv-ji-suan.md)
   * [流水线加速比计算](chapter1/liu-shui-xian-jia-su-bi-ji-suan.md)
   * [计算机层次化存储结构](chapter1/ji-suan-ji-ceng-ci-hua-cun-chu-jie-gou.md)
+  * [时间局部性与空间局部性](chapter1/shi-jian-ju-bu-xing-yu-kong-jian-ju-bu-xing.md)
 
