@@ -22,6 +22,7 @@
   * [循环校验码CRC](chapter1/xun-huan-xiao-yan-ma-crc.md)
   * [海明校验码-难点-频度高](chapter1/hai-ming-xiao-yan-7801-nan-70b9-pin-du-gao.md)
 * [第二章 操作系统概述](chapter2.md)
-  * [2.1进程状态转换图](chapter2/21jin-cheng-zhuang-tai-zhuan-huan-tu.md)
-  * [2.2前趋图](chapter2/22qian-qu-tu.md)
+  * [2.1 进程状态转换图](chapter2/21jin-cheng-zhuang-tai-zhuan-huan-tu.md)
+  * [2.2 前趋图](chapter2/22qian-qu-tu.md)
+  * 2.3 进程的同步和互斥
 
