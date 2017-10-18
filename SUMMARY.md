@@ -24,5 +24,5 @@
 * [第二章 操作系统概述](chapter2.md)
   * [2.1 进程状态转换图](chapter2/21jin-cheng-zhuang-tai-zhuan-huan-tu.md)
   * [2.2 前趋图](chapter2/22qian-qu-tu.md)
-  * 2.3 进程的同步和互斥
+  * [2.3 进程的同步和互斥](chapter2/23-jin-cheng-de-tong-bu-he-hu-chi.md)
 
