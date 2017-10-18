@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [计算机组成原理与体系结构](chapter1.md)
+* [第一章 计算机组成原理与体系结构](chapter1.md)
   * [数据的表示\(进制的转换\)](chapter1/shu-ju-de-biao-793a28-jin-zhi-de-zhuan-636229.md)
   * [数据的表示\(原码反码补码移码\)](chapter1/shu-ju-de-biao-793a28-yuan-ma-fan-ma-bu-ma-yi-780129.md)
   * [数据的表示\(浮点数运算\)](chapter1/shu-ju-de-biao-793a28-fu-dian-shu-yun-7b9729.md)
@@ -21,7 +21,7 @@
   * [校验码的概念](chapter1/xiao-yan-ma-de-gai-nian.md)
   * [循环校验码CRC](chapter1/xun-huan-xiao-yan-ma-crc.md)
   * [海明校验码-难点-频度高](chapter1/hai-ming-xiao-yan-7801-nan-70b9-pin-du-gao.md)
-* [操作系统概述](chapter2.md)
+* [第二章 操作系统概述](chapter2.md)
   * [2.1进程状态转换图](chapter2/21jin-cheng-zhuang-tai-zhuan-huan-tu.md)
   * [2.2前趋图](chapter2/22qian-qu-tu.md)
 
