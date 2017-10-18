@@ -20,4 +20,5 @@
   * [系统可靠性分析与设计](chapter1/xi-tong-ke-kao-xing-fen-xi-yu-she-ji.md)
   * [校验码的概念](chapter1/xiao-yan-ma-de-gai-nian.md)
   * [循环校验码CRC](chapter1/xun-huan-xiao-yan-ma-crc.md)
+  * [海明校验码-难点-频度高](chapter1/hai-ming-xiao-yan-7801-nan-70b9-pin-du-gao.md)
 
