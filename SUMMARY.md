@@ -21,5 +21,5 @@
   * [校验码的概念](chapter1/xiao-yan-ma-de-gai-nian.md)
   * [循环校验码CRC](chapter1/xun-huan-xiao-yan-ma-crc.md)
   * [海明校验码-难点-频度高](chapter1/hai-ming-xiao-yan-7801-nan-70b9-pin-du-gao.md)
-* [chapter2](chapter2.md)
+* [操作系统概述](chapter2.md)
 
