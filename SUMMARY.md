@@ -26,4 +26,5 @@
   * [2.2 前趋图](chapter2/22qian-qu-tu.md)
   * [2.3 进程的同步和互斥](chapter2/23-jin-cheng-de-tong-bu-he-hu-chi.md)
   * [2.4 PV操作-难点](chapter2/24-pvcao-4f5c-nan-dian.md)
+  * [2.5 PV操作练习题](chapter2/25pvcao-zuo-lian-xi-ti.md)
 
