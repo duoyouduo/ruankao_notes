@@ -30,4 +30,5 @@
   * [2.6 PV操作和前趋图](chapter2/26-pvcao-zuo-he-qian-qu-tu.md)
   * [2.7 死锁问题](chapter2/27-si-suo-wen-ti.md)
   * [2.8 死锁的预防和避免](chapter2/28-si-suo-de-yu-fang-he-bi-mian.md)
+  * [2.9 存储管理-分区存储组织](chapter2/29-cun-chu-guan-7406-fen-qu-cun-chu-zu-zhi.md)
 
