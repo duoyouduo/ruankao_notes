@@ -29,4 +29,5 @@
   * [2.5 PV操作练习题](chapter2/25pvcao-zuo-lian-xi-ti.md)
   * [2.6 PV操作和前趋图](chapter2/26-pvcao-zuo-he-qian-qu-tu.md)
   * [2.7 死锁问题](chapter2/27-si-suo-wen-ti.md)
+  * [2.8 死锁的预防和避免](chapter2/28-si-suo-de-yu-fang-he-bi-mian.md)
 
