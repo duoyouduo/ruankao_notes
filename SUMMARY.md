@@ -31,4 +31,5 @@
   * [2.7 死锁问题](chapter2/27-si-suo-wen-ti.md)
   * [2.8 死锁的预防和避免](chapter2/28-si-suo-de-yu-fang-he-bi-mian.md)
   * [2.9 存储管理-分区存储组织](chapter2/29-cun-chu-guan-7406-fen-qu-cun-chu-zu-zhi.md)
+  * [2.10 页式存储、段式存储、段页式存储](chapter2/210-ye-shi-cun-chu-3001-duan-shi-cun-chu-3001-duan-ye-shi-cun-chu.md)
 
