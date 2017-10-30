@@ -35,4 +35,5 @@
   * [2.11 存储管理-页面置换算法](chapter2/211-cun-chu-guan-7406-ye-mian-zhi-huan-suan-fa.md)
   * [2.12 文件管理-索引文件结构](chapter2/212-suo-yin-wen-jian-jie-gou.md)
   * [2.13 树型目录结构](chapter2/213-wen-jian-guan-7406-shu-xing-mu-lu-jie-gou.md)
+  * [2.14 文件管理-空闲存储空间的管理](chapter2/214-wen-jian-guan-7406-kong-xian-cun-chu-kong-jian-de-guan-li.md)
 
