@@ -34,4 +34,5 @@
   * [2.10 页式存储、段式存储、段页式存储](chapter2/210-ye-shi-cun-chu-3001-duan-shi-cun-chu-3001-duan-ye-shi-cun-chu.md)
   * [2.11 存储管理-页面置换算法](chapter2/211-cun-chu-guan-7406-ye-mian-zhi-huan-suan-fa.md)
   * [2.12 文件管理-索引文件结构](chapter2/212-suo-yin-wen-jian-jie-gou.md)
+  * [2.13 树型目录结构](chapter2/213-wen-jian-guan-7406-shu-xing-mu-lu-jie-gou.md)
 
