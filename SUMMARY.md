@@ -37,4 +37,5 @@
   * [2.13 树型目录结构](chapter2/213-wen-jian-guan-7406-shu-xing-mu-lu-jie-gou.md)
   * [2.14 文件管理-空闲存储空间的管理](chapter2/214-wen-jian-guan-7406-kong-xian-cun-chu-kong-jian-de-guan-li.md)
   * [2.15 设备管理-数据传输方案](chapter2/215-she-bei-guan-7406-shu-ju-chuan-shu-fang-an.md)
+  * [2.16 设备管理-虚设备和SPOOLING技术](chapter2/216-she-bei-guan-7406-xu-she-bei-he-spooling-ji-zhu.md)
 
