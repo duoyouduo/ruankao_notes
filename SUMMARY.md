@@ -41,4 +41,5 @@
   * [2.17 微内核操作系统](chapter2/217-wei-nei-he-cao-zuo-xi-tong.md)
 * [第三章 数据库系统](di-san-zhang-shu-ju-ku-xi-tong.md)
   * [3.1 三级模式-两级映射](di-san-zhang-shu-ju-ku-xi-tong/31-san-ji-mo-5f0f-liang-ji-ying-she.md)
+  * [3.2 数据库的设计过程说明](di-san-zhang-shu-ju-ku-xi-tong/32-shu-ju-ku-de-she-ji-guo-cheng-shuo-ming.md)
 
