@@ -3,6 +3,7 @@
 ![](/imgs/1.4.3-1ER.png)
 
 关系数据库中的关系模式是型，而关系是值。关系模式是对关系的描写叙述。
+可参考[http://www.cnblogs.com/zfyouxi/p/4174088.html](http://www.cnblogs.com/zfyouxi/p/4174088.html)
 
 ##什么是关系？
 
