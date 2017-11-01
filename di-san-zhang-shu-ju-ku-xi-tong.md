@@ -1,8 +1,10 @@
-![](/imgs/1.4-2关系模式的数学表示.png)#数据库系统概述
+#数据库系统概述
 
 上下午都会考到。
 
 ![](/imgs/1.4-1数据库系统内容提要.png)
+
+以下内容引用自[http://www.cnblogs.com/fudashi/p/6856628.html](http://www.cnblogs.com/fudashi/p/6856628.html)
 
 名词解释
 
@@ -54,5 +56,4 @@
 想要查看t_student的关系实例？SELECT * FROM student
 另外，关系模式有约定的数学表示，R（U，D，DOM，F），R指关系名，U指一组属性，D指域，DOM指属性到域的映射，F就是指数据依赖。举个栗子，假设一个学生表t_student，拥有属性学号，姓名，性别，学院，其数学表示如图。
 
-
-
+![](/imgs/1.4-2关系模式的数学表示.png)
