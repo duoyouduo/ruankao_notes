@@ -47,4 +47,5 @@
   * [3.5 规范化理论-函数依赖](chapter3/35-gui-fan-hua-li-8bba-han-shu-yi-lai.md)
   * [3.6 规范化理论-范式](chapter3/36-gui-fan-hua-li-8bba-fan-shi.md)
   * [3.7 规范化理论例题](chapter3/37-gui-fan-hua-li-lun-li-ti.md)
+  * [3.8 规范化理论-模式分解](chapter3/38-gui-fan-hua-li-8bba-mo-shi-fen-jie.md)
 
