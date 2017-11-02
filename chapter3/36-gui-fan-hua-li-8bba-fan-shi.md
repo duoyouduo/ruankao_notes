@@ -6,4 +6,4 @@
 
 单主属性——2NF（因为单主属性不可能存在部分函数依赖）
 
-关于范式，更生动详细的可以参考知乎上的答案[https://www.zhihu.com/question/24696366](https://www.zhihu.com/question/24696366)
+关于范式，更生动详细的可以参考知乎[https://www.zhihu.com/question/24696366](https://www.zhihu.com/question/24696366)
