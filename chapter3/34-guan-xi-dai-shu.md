@@ -1,5 +1,9 @@
 #关系代数
 
+考查方式：上午综合选择题
+
+以下参考[http://blog.csdn.net/xiazdong/article/details/7522412](http://blog.csdn.net/xiazdong/article/details/7522412)
+
 ####问：为何称为代数？
 答：因为存在**操作符**和**操作数**，**操作数为表**，操作符为交、并等；
 
