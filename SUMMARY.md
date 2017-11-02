@@ -45,4 +45,5 @@
   * [3.3 ER模型](chapter3/33-ermo-xing.md)
   * [3.4 关系代数](chapter3/34-guan-xi-dai-shu.md)
   * [3.5 规范化理论-函数依赖](chapter3/35-gui-fan-hua-li-8bba-han-shu-yi-lai.md)
+  * [3.6 规范化理论-范式](chapter3/36-gui-fan-hua-li-8bba-fan-shi.md)
 
