@@ -12,3 +12,12 @@ BCNF——消除主属性对于候选码存在的部分依赖和传递依赖
 
 关于范式，更生动详细的描述可以参考知乎答案[https://www.zhihu.com/question/24696366](https://www.zhihu.com/question/24696366)
 
+![](/imgs/1.4.6-1范式.png)
+
+![](/imgs/1.4.6-2第一范式.png)
+
+![](/imgs/1.4.6-3第二范式.png)
+
+![](/imgs/1.4.6-4第三范式.png)
+
+![](/imgs/1.4.6-5BC范式.png)
