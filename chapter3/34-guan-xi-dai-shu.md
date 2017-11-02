@@ -1,4 +1,4 @@
-#关系代数
+![](/imgs/1.4.4-3关系代数操作.png)#关系代数
 
 考查方式：上午综合选择题
 以下参考[http://blog.csdn.net/xiazdong/article/details/7522412](http://blog.csdn.net/xiazdong/article/details/7522412)
