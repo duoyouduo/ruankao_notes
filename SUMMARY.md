@@ -44,4 +44,5 @@
   * [3.2 数据库的设计过程说明](chapter3/32-shu-ju-ku-de-she-ji-guo-cheng-shuo-ming.md)
   * [3.3 ER模型](chapter3/33-ermo-xing.md)
   * [3.4 关系代数](chapter3/34-guan-xi-dai-shu.md)
+  * [3.5 规范化理论-函数依赖](chapter3/35-gui-fan-hua-li-8bba-han-shu-yi-lai.md)
 
