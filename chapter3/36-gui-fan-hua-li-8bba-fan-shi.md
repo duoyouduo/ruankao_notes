@@ -8,4 +8,6 @@
 
 3NF——消除非主属性对**候选码**的传递函数依赖
 
+BCNF——消除主属性之间存在的部分依赖和传递依赖
+
 关于范式，更生动详细的描述可以参考知乎[https://www.zhihu.com/question/24696366](https://www.zhihu.com/question/24696366)
