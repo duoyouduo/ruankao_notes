@@ -57,4 +57,5 @@
   * [4.15 大数据基本概念](chapter3/415-da-shu-ju-ji-ben-gai-nian.md)
 * [第四章 计算机网络](di-si-zhang-ji-suan-ji-wang-luo.md)
   * [4.1 七层模型](di-si-zhang-ji-suan-ji-wang-luo/41-qi-ceng-mo-xing.md)
+  * [4.2 网络技术标准与协议](di-si-zhang-ji-suan-ji-wang-luo/42-wang-luo-ji-zhu-biao-zhun-yu-xie-yi.md)
 
