@@ -55,4 +55,6 @@
   * [3.13 数据仓库与数据挖掘](chapter3/313-shu-ju-cang-ku-yu-shu-ju-wa-jue.md)
   * [3.14  反规范化技术](chapter3/314-fan-gui-fan-hua-ji-zhu.md)
   * [4.15 大数据基本概念](chapter3/415-da-shu-ju-ji-ben-gai-nian.md)
+* [第四章 计算机网络](di-si-zhang-ji-suan-ji-wang-luo.md)
+  * [4.1 七层模型](di-si-zhang-ji-suan-ji-wang-luo/41-qi-ceng-mo-xing.md)
 
