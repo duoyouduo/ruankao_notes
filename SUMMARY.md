@@ -50,4 +50,5 @@
   * [3.8 规范化理论-模式分解](chapter3/38-gui-fan-hua-li-8bba-mo-shi-fen-jie.md)
   * [3.9 并发控制](chapter3/39-bing-fa-kong-zhi.md)
   * [3.10 完整性约束](chapter3/310-wan-zheng-xing-yue-shu.md)
+  * [3.11 数据库安全](chapter3/311-shu-ju-ku-an-quan.md)
 
