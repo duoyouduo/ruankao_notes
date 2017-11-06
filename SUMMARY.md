@@ -49,4 +49,5 @@
   * [3.7 规范化理论例题](chapter3/37-gui-fan-hua-li-lun-li-ti.md)
   * [3.8 规范化理论-模式分解](chapter3/38-gui-fan-hua-li-8bba-mo-shi-fen-jie.md)
   * [3.9 并发控制](chapter3/39-bing-fa-kong-zhi.md)
+  * [3.10 完整性约束](chapter3/310-wan-zheng-xing-yue-shu.md)
 
