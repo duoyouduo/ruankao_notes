@@ -53,4 +53,5 @@
   * [3.11 数据库安全](chapter3/311-shu-ju-ku-an-quan.md)
   * [3.12 数据库备份](chapter3/312-shu-ju-ku-bei-fen.md)
   * [3.13 数据仓库与数据挖掘](chapter3/313-shu-ju-cang-ku-yu-shu-ju-wa-jue.md)
+  * [3.14  反规范化技术](chapter3/314-fan-gui-fan-hua-ji-zhu.md)
 
