@@ -60,4 +60,5 @@
   * [4.2 网络技术标准与协议](di-si-zhang-ji-suan-ji-wang-luo/42-wang-luo-ji-zhu-biao-zhun-yu-xie-yi.md)
   * [4.3 计算机网络的分类](di-si-zhang-ji-suan-ji-wang-luo/43-ji-suan-ji-wang-luo-de-fen-lei.md)
   * [4.4 网络规划与设计](di-si-zhang-ji-suan-ji-wang-luo/44-wang-luo-gui-hua-yu-she-ji.md)
+  * [4.5 IP地址与子网划分](di-si-zhang-ji-suan-ji-wang-luo/45-ipdi-zhi-yu-zi-wang-hua-fen.md)
 
