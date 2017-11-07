@@ -66,4 +66,6 @@
   * [4.8 无线网](di-si-zhang-ji-suan-ji-wang-luo/48-wu-xian-wang.md)
   * [4.9 网络接入技术](di-si-zhang-ji-suan-ji-wang-luo/49-wang-luo-jie-ru-ji-zhu.md)
   * [4.10 IPV6](di-si-zhang-ji-suan-ji-wang-luo/410-ipv6.md)
+* [chapter5](chapter5.md)
+  * [5.1 信息系统安全属性](chapter5/51-xin-xi-xi-tong-an-quan-shu-xing.md)
 
