@@ -8,6 +8,8 @@
 
 **NETBEUI协议：**IBM，不支持路由，速度快；
 
+三层/网路层：IP、ICMP（因特网的控制协议，ping命令）、ARP（地址解析，ip转mac）、RARP（逆地址解析）；
+
 
  
 
