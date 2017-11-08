@@ -69,4 +69,5 @@
 * [chapter5](chapter5.md)
   * [5.1 信息系统安全属性](chapter5/51-xin-xi-xi-tong-an-quan-shu-xing.md)
   * [5.2 对称加密和非对称加密](chapter5/52-dui-cheng-jia-mi-he-fei-dui-cheng-jia-mi.md)
+  * [5.3 信息摘要](chapter5/53-xin-xi-zhai-yao.md)
 
