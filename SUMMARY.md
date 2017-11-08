@@ -71,4 +71,5 @@
   * [5.2 对称加密和非对称加密](chapter5/52-dui-cheng-jia-mi-he-fei-dui-cheng-jia-mi.md)
   * [5.3 信息摘要](chapter5/53-xin-xi-zhai-yao.md)
   * [5.4 数字签名](chapter5/54-shu-zi-qian-ming.md)
+  * [5.5  数字信封与PGP](chapter5/55-shu-zi-xin-feng-yu-pgp.md)
 
