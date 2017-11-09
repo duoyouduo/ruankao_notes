@@ -82,4 +82,5 @@
   * [6.3 数据结构概念](chapter6/63-shu-ju-jie-gou-gai-nian.md)
   * [6.4 线性结构](chapter6/64-xian-xing-jie-gou.md)
   * [6.5 队列与栈（重点）](chapter6/65-dui-lie-yu-zhan-ff08-zhong-dian-ff09.md)
+  * [6.6 广义表](chapter6/66-guang-yi-biao.md)
 
