@@ -46,4 +46,6 @@
 
 越平衡，查找效率越高；
 
+更多关于平衡二叉树的知识请参考[https://www.cnblogs.com/zhujunxxxxx/p/3348798.html](https://www.cnblogs.com/zhujunxxxxx/p/3348798.html)
+
 ![](/imgs/1.7.7-9平衡二叉树.png)
