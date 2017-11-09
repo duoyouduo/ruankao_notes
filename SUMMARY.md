@@ -83,4 +83,5 @@
   * [6.4 线性结构](chapter6/64-xian-xing-jie-gou.md)
   * [6.5 队列与栈（重点）](chapter6/65-dui-lie-yu-zhan-ff08-zhong-dian-ff09.md)
   * [6.6 广义表](chapter6/66-guang-yi-biao.md)
+  * [6.7 树与二叉树](chapter6/67-shu-yu-er-cha-shu.md)
 
