@@ -78,4 +78,5 @@
   * [5.9 防火墙技术](chapter5/59-fang-huo-qiang-ji-zhu.md)
 * [chapter6](chapter6.md)
   * [6.1 数组](chapter6/61-shu-zu.md)
+  * [6.2 稀疏矩阵](chapter6/62-xi-shu-ju-zhen.md)
 
