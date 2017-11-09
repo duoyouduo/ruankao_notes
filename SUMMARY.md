@@ -79,4 +79,5 @@
 * [第六章 数据结构与算法](chapter6.md)
   * [6.1 数组](chapter6/61-shu-zu.md)
   * [6.2 稀疏矩阵](chapter6/62-xi-shu-ju-zhen.md)
+  * [6.3 数据结构概念](chapter6/63-shu-ju-jie-gou-gai-nian.md)
 
