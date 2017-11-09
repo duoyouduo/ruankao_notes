@@ -77,5 +77,5 @@
   * [5.8 网络安全与攻击](chapter5/58-wang-luo-an-quan-yu-gong-ji.md)
   * [5.9 防火墙技术](chapter5/59-fang-huo-qiang-ji-zhu.md)
 * [chapter6](chapter6.md)
-  * 6.1 数组
+  * [6.1 数组](chapter6/61-shu-zu.md)
 
