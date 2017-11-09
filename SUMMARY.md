@@ -76,7 +76,7 @@
   * [5.7 各个网络层次的安全保障问题](chapter5/57-ge-ge-wang-luo-ceng-ci-de-an-quan-bao-zhang-wen-ti.md)
   * [5.8 网络安全与攻击](chapter5/58-wang-luo-an-quan-yu-gong-ji.md)
   * [5.9 防火墙技术](chapter5/59-fang-huo-qiang-ji-zhu.md)
-* [chapter6](chapter6.md)
+* [第六章 数据结构与算法](chapter6.md)
   * [6.1 数组](chapter6/61-shu-zu.md)
   * [6.2 稀疏矩阵](chapter6/62-xi-shu-ju-zhen.md)
 
