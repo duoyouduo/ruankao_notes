@@ -81,4 +81,5 @@
   * [6.2 稀疏矩阵](chapter6/62-xi-shu-ju-zhen.md)
   * [6.3 数据结构概念](chapter6/63-shu-ju-jie-gou-gai-nian.md)
   * [6.4 线性结构](chapter6/64-xian-xing-jie-gou.md)
+  * [6.5 队列与栈（重点）](chapter6/65-dui-lie-yu-zhan-ff08-zhong-dian-ff09.md)
 
