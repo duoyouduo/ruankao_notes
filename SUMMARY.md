@@ -85,4 +85,5 @@
   * [6.6 广义表](chapter6/66-guang-yi-biao.md)
   * [6.7 树与二叉树](chapter6/67-shu-yu-er-cha-shu.md)
   * [6.8 图](chapter6/68-tu.md)
+  * [6.9 拓扑排序](chapter6/69-tuo-pu-pai-xu.md)
 
