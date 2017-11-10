@@ -86,4 +86,5 @@
   * [6.7 树与二叉树](chapter6/67-shu-yu-er-cha-shu.md)
   * [6.8 图](chapter6/68-tu.md)
   * [6.9 算法基础](chapter6/69-suan-fa-ji-chu.md)
+  * [6.10 排序](chapter6/610-pai-xu.md)
 
